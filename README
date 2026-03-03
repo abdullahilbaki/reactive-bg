@@ -1,9 +1,0 @@
-REACTIVE BACKGROUND
-
-A simple program that change background renderer color with every mouch click and keypress.
-
-Run
-
-```bash
-cc main.c -o reactive-bg -lSDL3 && ./reactive-bg
-```
