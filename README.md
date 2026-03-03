@@ -1,6 +1,6 @@
 # REACTIVE BACKGROUND
 
-A tiny program that changes the screen color when you click or press a key.
+A tiny program that changes the screen color when user click or press a key.
 
 ## Build & Run
 
